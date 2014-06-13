@@ -1,0 +1,32 @@
+.wrapper{
+    height: 600px;
+    width: 300px;
+    background-color: #00000;
+	margin: 100px auto;
+	
+}
+
+
+.inside{
+
+
+background-color: grey;
+outline: 1px solid;
+float:left;
+
+
+}
+
+.highlighted{
+background-color:blue;
+}
+
+button{
+margin-left:630px;
+}
+
+
+
+
+
+
